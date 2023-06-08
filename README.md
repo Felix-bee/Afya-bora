@@ -11,3 +11,5 @@ thus reduced carbon monoxide emmisions from vehicles.
 Dental,Surgery and pediatric doctors have a platform where they can show when they have no much work (through website notifications) 
 thus the patients can contact them for some consultations without having to travel. This miight reduce the time consumed in travellig 
 and queueing, and also creates accuracy of getting in touch with the doctors without much struggle.
+
+In future if the startegy will be put in place, there will be implementation of cognitive IBM services to enable clearer pictures of wounds and sugeries from patient to doctors for advices on how best best to nurse themselves without having to travel to hospitals. (THIS BEST SUITS FRACTURED AND PATIENTS WHO REQUIRE RE-DRESSSING OF THEIR WOUNDS AFTER SUGERIES)
