@@ -15,3 +15,5 @@ The website has an interactive user interface that welcomes the user to the page
 
 IBM service used or to be used: /
 In future if the strategy will be put in place, there will be implementation of cognitive IBM services to enable clearer pictures of wounds and surgeries from patient to doctors for advices on how best to nurse themselves without having to travel to hospitals, through video calls such as skype or zoom meet. (THIS BEST SUITS FRACTURED PATIENTS AND PATIENTS WHO REQUIRE RE-DRESSSING OF THEIR WOUNDS AFTER SUGERIES)
+
+--- enjoy ---
